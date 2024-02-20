@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.njkdr.online # submit your host
+REDIS_HOST: redis-prod.njkdr.online
+MYSQL_HOST: mysql-prod.njkdr.online
+RABBITMQ_HOST: rabbitmq-prod.njkdr.online
+CATALOGUE_HOST: catalogue-prod.njkdr.online
+USER_HOST: user-prod.njkdr.online
+CART_HOST: cart-prod.njkdr.online
+SHIPPING_HOST: shipping-prod.njkdr.online
+PAYMENT_HOST: payment-prod.njkdr.online
+DISPATCH_HOST: dispatch-prod.njkdr.online
