@@ -22,4 +22,4 @@
 
   # {{ lookup('aws_ssm', '/roboshop/{{env}}/mysql_root_pass', region='us-east-1', decrypt=True ) }} 
   # Added the above to get the password from ssm parameter store
-  # Conditions: Policy needs to be added and Python, boto3, botocore needs to be installed
+  # Conditions: Policy needs to be added and Python modules boto3, botocore needs to be installed
