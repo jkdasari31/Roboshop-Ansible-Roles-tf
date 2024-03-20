@@ -8,3 +8,5 @@ CART_HOST: cart-prod.njkdr.online
 SHIPPING_HOST: shipping-prod.njkdr.online
 PAYMENT_HOST: payment-prod.njkdr.online
 DISPATCH_HOST: dispatch-prod.njkdr.online
+NEXUS_URL: http://172.31.31.225:8081/repository
+group_id: "com/roboshop"
